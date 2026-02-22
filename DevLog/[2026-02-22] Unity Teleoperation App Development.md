@@ -20,4 +20,5 @@ Today, I focused on implementing the control system for a robot arm using Unity 
 * **Gripper Control Failure:** The custom script for the gripper (tightening/releasing via joystick) is currently unresponsive.
 * **VR Boundary Interference:** Investigating whether the Quest/VR boundary settings are causing clipping or offset issues during seated development
 
-[[Video]](https://github.com/G-Hong/Today-I-Learned/blob/main/DevLog/assets/%5B2026-02-22%5D%20MR%20environment.mp4?raw=true)
+<video src="https://github.com/G-Hong/Today-I-Learned/blob/main/DevLog/assets/%5B2026-02-22%5D%20MR%20environment.mp4?raw=true" controls="controls" style="max-width: 100%;">
+</video>
